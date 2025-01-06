@@ -1,0 +1,6 @@
+{
+    "require": {
+        "klein/klein": "^2.1",
+        "furqansiddiqui/bip39-mnemonic-php": "^0.1.7"
+    }
+}
